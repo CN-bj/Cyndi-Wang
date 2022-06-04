@@ -10,6 +10,9 @@
     width: 1300px;
     margin: 0 auto;
 }
+body {
+    min-width: 1920px !important;
+}
 /* 头部制作 */
 .header {
     width: 100%;
