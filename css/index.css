@@ -1,0 +1,22 @@
+/* 主体部分*/
+.shell {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.image {
+    width: 100%;
+    height: 800px;
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+}
+
+.text {
+    text-align: center;
+    margin: 100px auto;
+}
+
+/* 主体部分 */

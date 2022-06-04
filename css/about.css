@@ -1,0 +1,33 @@
+.box {
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    background-color: rgba(231, 207, 200);
+    padding: 30px 30px;
+    border-radius: 40px;
+    margin-bottom: 50px;
+}
+
+.image {
+    overflow: hidden;
+    width: 250px;
+    height: 100%;
+    border-radius: 100px;
+
+}
+
+.image img {
+    height: 100%;
+}
+
+.words {
+    width: 800px;
+    height: 540px;
+    font-size: 18px;
+    line-height: 35px;
+    border-radius: 30px;
+}
+
+.words h3 {
+    text-align: center;
+}
